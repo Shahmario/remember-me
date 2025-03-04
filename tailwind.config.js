@@ -13,6 +13,6 @@ module.exports = {
      './app/**/*.{html,js,jsx,ts,tsx,mdx}',
   ],
   plugins: [
-    require("daisyui")
+    //require("daisyui")
   ],
 }
